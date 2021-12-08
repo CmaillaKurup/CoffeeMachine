@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="788b2ce4-e54b-4894-b50e-626df33e2b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/Filter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/Jug.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/MachineMng.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/Power.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/WaterLimit.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/WaterTank.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeeMachine/IPower.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoffeeMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoffeeMachine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/Filter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMachine/Filter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/Jug.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMachine/Jug.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/MachineMng.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMachine/MachineMng.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/Power.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMachine/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/WaterLimit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMachine/WaterTank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMachine/WaterTank.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +28,15 @@
       <option value="$PROJECT_DIR$/CoffeeMachine/Liquid.cs" />
       <option value="$PROJECT_DIR$/CoffeeMachine/Container.cs" />
       <option value="$PROJECT_DIR$/CoffeeMachine/IWaterLimit.cs" />
-      <option value="$PROJECT_DIR$/CoffeeMachine/Program.cs" />
-      <option value="$PROJECT_DIR$/CoffeeMachine/WaterLimit.cs" />
-      <option value="$PROJECT_DIR$/CoffeeMachine/Jug.cs" />
       <option value="$PROJECT_DIR$/CoffeeMachine/PoorWater.cs" />
-      <option value="$PROJECT_DIR$/CoffeeMachine/Filter.cs" />
-      <option value="$PROJECT_DIR$/CoffeeMachine/MachineMng.cs" />
       <option value="$PROJECT_DIR$/CoffeeMachine/Power.cs" />
+      <option value="$PROJECT_DIR$/CoffeeMachine/Program.cs" />
+      <option value="$PROJECT_DIR$/CoffeeMachine/IPower.cs" />
+      <option value="$PROJECT_DIR$/CoffeeMachine/WaterLimit.cs" />
       <option value="$PROJECT_DIR$/CoffeeMachine/WaterTank.cs" />
+      <option value="$PROJECT_DIR$/CoffeeMachine/Jug.cs" />
+      <option value="$PROJECT_DIR$/CoffeeMachine/MachineMng.cs" />
+      <option value="$PROJECT_DIR$/CoffeeMachine/Filter.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2206jA3j7FPSqrtqktx6KwmRHny" />
@@ -74,8 +78,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638962289893</updated>
-      <workItem from="1638962294403" duration="4771000" />
+      <workItem from="1638962294403" duration="6653000" />
     </task>
+    <task id="LOCAL-00001" summary="Absolutly not done - but in fear of not getting back to this today I will commit what I have for now - and hopefully get back later">
+      <created>1638971143084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638971143084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
@@ -93,5 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Absolutly not done - but in fear of not getting back to this today I will commit what I have for now - and hopefully get back later" />
+    <option name="LAST_COMMIT_MESSAGE" value="Absolutly not done - but in fear of not getting back to this today I will commit what I have for now - and hopefully get back later" />
   </component>
 </project>

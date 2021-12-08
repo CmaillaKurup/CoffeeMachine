@@ -4,15 +4,18 @@ namespace CoffeeMachine
 {
     public class Filter
     {
-        private List<string> liquidType { get; }
+        //Creating a list of flavors
+        private List<string> flavorType { get; }
 
         public Filter()
         {
-            liquidType.Add("Coffee");
-            liquidType.Add("Tee");
-            liquidType.Add("Choco");
+            //adding items for my list of flavors
+            flavorType.Add("Coffee");
+            flavorType.Add("Tee");
+            flavorType.Add("Choco");
         }
         
+        //this function will take any given flavorType and put it into the filter
         public void PoorFilter()
         {
             

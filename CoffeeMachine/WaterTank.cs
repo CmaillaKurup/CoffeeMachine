@@ -2,22 +2,10 @@ namespace CoffeeMachine
 {
     public abstract class WaterTank
     {
-        private WaterLimit waterLimit { get; }
-        private int currentSpaceInUse { get; }
-
+        private bool containsWater { get; set; }
         public WaterTank()
         {
             
-        }
-        
-        public void PoorWater()
-        {
-            /*
-            if (currentSpaceInUse < waterLimit)
-            {
-                
-            }
-            */
         }
     }
 }
